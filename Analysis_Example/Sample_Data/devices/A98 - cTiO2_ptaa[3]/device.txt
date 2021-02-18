@@ -1,0 +1,4 @@
+Vmin:	-1.500000 V
+Vmax:	1.500000 V
+Surface area:	0.128000 cm^2
+Imax forward:	50.000000 mA
